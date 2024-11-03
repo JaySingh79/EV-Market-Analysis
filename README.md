@@ -20,7 +20,3 @@ The analysis is conducted using Python with libraries such as Pandas for data ma
 This project serves as a valuable resource for stakeholders interested in the electric vehicle market, including policymakers, manufacturers, and consumers. By providing detailed insights into current trends and future opportunities, it aims to contribute to the ongoing conversation about sustainable transportation solutions in the U.S. 
 
 Feel free to explore the code and visualizations in this repository to gain a deeper understanding of the electric vehicle market dynamics!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/376121/f8248090-d786-473c-b960-81b5e9e9332b/paste.txt
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/376121/79e6865b-5135-4869-9558-263a0e316ab3/paste-2.txt
